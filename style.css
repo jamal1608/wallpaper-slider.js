@@ -19,17 +19,17 @@ body{
 }
 .item{
     width:200px;
-    height:300px;
+    height:150px;
     background-position: 50% 50%;
     display: inline-block;
     transition: 0.5s;
     background-size: cover;
     position: absolute;
     z-index: 1;
-    top:50%;
+    top:70%;
     transform: translate(0,-50%);
     border-radius: 20px;
-    box-shadow:  0 30px 50px #505050;
+    box-shadow:  0 30px 50px #313131;
 }
 .item:nth-child(1),
 .item:nth-child(2){
